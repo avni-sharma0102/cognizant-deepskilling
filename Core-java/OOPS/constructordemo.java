@@ -13,7 +13,7 @@ void display(){
 }
 
 
-public class constructor {
+public class constructordemo{
     public static void main(String[] args) {
         Student s1 = new Student("avni",21);
         s1.display();
