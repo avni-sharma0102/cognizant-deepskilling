@@ -19,7 +19,7 @@ class Student {
 }
 
 
-class encap {
+ public class encap {
 
     public static void main(String[] args){
 
