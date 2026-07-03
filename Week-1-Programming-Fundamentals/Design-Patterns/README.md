@@ -1,1 +1,8 @@
-understanding of different type of design patterns
+# Design Patterns
+
+Topics Covered
+
+- Factory Pattern
+- Builder Pattern
+
+Status: Completed
