@@ -1,0 +1,21 @@
+# Dependency Injection (DI)
+
+## Definition
+
+Dependency Injection (DI) is a technique in which the required object (dependency) is provided by the Spring IoC Container instead of being created inside the class.
+
+## Types
+
+- Constructor Injection
+- Setter Injection
+
+## Advantages
+
+- Loose Coupling
+- Better Maintainability
+- Easy Testing
+- Reusable Components
+
+## Key Point
+
+Spring implements Inversion of Control (IoC) using Dependency Injection (DI).
