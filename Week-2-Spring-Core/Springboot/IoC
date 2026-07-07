@@ -1,0 +1,17 @@
+# Inversion of Control (IoC)
+
+## Definition
+
+Inversion of Control (IoC) is a design principle in which the responsibility of creating and managing objects is transferred from the programmer to the Spring IoC Container.
+
+## Advantages
+
+- Loose Coupling
+- Better Maintainability
+- Easy Testing
+- Reusable Components
+- Cleaner Code
+
+## Key Point
+
+Spring achieves IoC using Dependency Injection (DI).
