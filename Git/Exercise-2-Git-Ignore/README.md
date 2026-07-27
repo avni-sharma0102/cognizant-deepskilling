@@ -26,7 +26,7 @@ echo Error > log\error.txt
 
 ### Screenshot
 
-![Step 1](Step1.png)
+![Step 1](step1.png)
 
 ---
 
@@ -46,7 +46,7 @@ This tells Git to ignore:
 
 ### Screenshot
 
-![Step 2](Step2.png)
+![Step 2](step2.png)
 
 ---
 
@@ -62,7 +62,7 @@ Git successfully ignored `sample.log` and the `log` folder.
 
 ### Screenshot
 
-![Step 3](Step3.png)
+![Step 3](step3.png)
 
 ---
 
@@ -77,7 +77,7 @@ git commit -m "Added Exercise 2 - Git Ignore"
 
 ### Screenshot
 
-![Step 4](Step4.png)
+![Step 4](step4.png)
 
 ---
 
@@ -91,7 +91,7 @@ git push origin main
 
 ### Screenshot
 
-![Step 5](Step5.png)
+![Step 5](step5.png)
 
 ---
 
@@ -102,10 +102,10 @@ The `.gitignore` file successfully ignored:
 * `*.log`
 * `log/`
 
-The ignored files were not tracked by Git, confirming that the ignore rules worked correctly.
+The ignored files did not appear in Git tracking, confirming that the ignore rules worked correctly.
 
 ---
 
 ## Conclusion
 
-This exercise demonstrated how to use the `.gitignore` file to prevent unnecessary files and folders from being tracked by Git. Using `.gitignore` helps keep repositories clean and avoids committing unwanted files.
+This hands-on exercise demonstrated how to use the `.gitignore` file to prevent unnecessary files and folders from being tracked by Git. Using `.gitignore` helps keep repositories clean and avoids committing unwanted or temporary files.
